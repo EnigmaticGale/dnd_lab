@@ -1,4 +1,6 @@
 public enum Spells {
 
-    FIREBALL
+    FIREBALL(20),
+    ICEBLAST(20),
+
 }
