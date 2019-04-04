@@ -1,3 +1,5 @@
+package ENUMs;
+
 public enum Spells {
 
     FIREBALL(20),

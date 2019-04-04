@@ -1,3 +1,5 @@
+package ENUMs;
+
 public enum HealingItems {
 
     POTION(30),
